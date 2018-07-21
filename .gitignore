@@ -38,3 +38,14 @@ buck-out/
 \.buckd/
 android/app/libs
 android/keystores/debug.keystore
+
+#Xamarin
+#
+netapp/netapp/netapp/bin
+netapp/netapp/netapp/obj
+netapp/netapp/NetApp.Android/bin
+netapp/netapp/NetApp.Android/obj
+netapp/netapp/NetApp.ios/bin
+netapp/netapp/NetApp.ios/obj
+netapp/.vs
+*.sln
